@@ -10,7 +10,7 @@ Me atrae especialmente el **frontend** por la parte visual e interactiva, aunque
 
 ### 🚀 Proyectos destacados
 
-- **[movie-reviews-laravel](https://github.com/ledesmamaria/movie-reviews-laravel)** — Aplicación completa con Laravel: autenticación, relaciones entre modelos y tests automáticos.
+- **[movie-laravel](https://github.com/ledesmamaria/movies-laravel)** — Aplicación completa con Laravel: autenticación, relaciones entre modelos y tests automáticos.
 - **[bubble-pop-game](https://github.com/ledesmamaria/bubble-pop-game)** — Juego interactivo en JavaScript puro, sin frameworks, con persistencia de datos.
 - **[weather-app](https://github.com/ledesmamaria/weather-app)** — Consulta del tiempo por ciudad, consumiendo APIs externas con 3 técnicas distintas (fetch, jQuery, Axios).
 
